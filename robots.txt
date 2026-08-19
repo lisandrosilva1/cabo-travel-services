@@ -1,4 +1,4 @@
+# This host is retired and consolidated into airport-transfers.privatechefloscabos.com.
+# The page itself carries <meta name="robots" content="noindex, follow"> + a canonical.
 User-agent: *
 Allow: /
-
-Sitemap: https://privatetransportation.privatechefloscabos.com/sitemap.xml
